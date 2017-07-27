@@ -1,6 +1,5 @@
 <?php
 /**
- * @brief                市占(数据收集工作量)
  * @package
  * @subpackage
  * @author               $Author:   zhangjingshan <zhangjingshan@haozu.com>$
