@@ -1,6 +1,5 @@
 <?php
 
 echo 1;die;
-dev
-
+aaaaafdsaf;dsaf;ldsajflkdsajflkdsaj;lf
 ?>
